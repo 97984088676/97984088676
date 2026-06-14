@@ -25,9 +25,7 @@
 </a>
 </div>
 
-<p align="center">
-  <img src="./kirby-happy-kirby.gif" width="250">
-</p>
+<img src="./kirby-happy-kirby.gif" width="250">
 
 ![Snake animation](https://github.com/97984088676/97984088676/blob/output/github-contribution-grid-snake.svg)
 
