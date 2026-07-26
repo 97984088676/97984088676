@@ -1,8 +1,3 @@
-## Olá 👋
-
-- 🔭 Atualmente estou trabalhando em front-end
-- 😄 Pronomes: ela/dela
-
 <div align="center">
 
 <!-- HEADER ULTRA PREMIUM -->
@@ -148,11 +143,7 @@
 
 <br/>
 
-<div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-<br/>
 
 ##
 
@@ -160,5 +151,150 @@
 <img src="./.github/kirby-happy-kirby.gif" width="100">
 </p>
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- GITHUB ANALYTICS
+
+-->
+
+<div align="center">
+
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45px"/>
+GitHub Analytics
+</h2>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=97984088676&theme=github_dark" alt="GitHub Stats"/>
+</td>
+
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=97984088676&theme=github_dark" alt="Top Languages"/>
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com/?user=97984088676&theme=dark&hide_border=true&background=0a0a0a&stroke=7C3AED&ring=D946EF&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D946EF&sideLabels=7C3AED&dates=6b7280&border_radius=20" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=97984088676&bg_color=0a0a0a&color=D946EF&line=7C3AED&point=F97316&area=true&hide_border=true&border_radius=20&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
+
 ![Snake animation](https://github.com/97984088676/97984088676/blob/output/github-contribution-grid-snake.svg)
 
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+
+## 📍 Localização & Disponibilidade
+
+<br/>
+
+<!-- Badges decorativos -->
+
+<img src="https://img.shields.io/badge/📍_Localização-Lábrea--AM,_Brasil-1E3A8A?style=for-the-badge&labelColor=0a0a0a"/>
+
+<img src="https://img.shields.io/badge/💻_Remoto-Disponível_Globalmente-7C3AED?style=for-the-badge&labelColor=0a0a0a"/>
+
+<img src="https://img.shields.io/badge/🕒_Timezone-GMT--4_(Brasília)-D946EF?style=for-the-badge&labelColor=0a0a0a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💼_Modalidade-CLT_|_PJ_|_Freelancer-F97316?style=for-the-badge&labelColor=0a0a0a"/>
+
+<img src="https://img.shields.io/badge/🚀_Disponibilidade-Novas_Oportunidades-FACC15?style=for-the-badge&labelColor=0a0a0a"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+</div>
+
+<br/>
+
+<!-- Motivational Quote -->
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=💜%20Cada%20linha%20de%20código%20é%20um%20passo%20para%20a%20inovação.%20🚀&author=Thamynne%20Vitória&border=true" alt="Footer Quote"/>
+
+<br/><br/>
+
+<!-- Contador de visitas -->
+
+<img src="https://komarev.com/ghpvc/?username=97984088676&color=D946EF&style=for-the-badge&label=VISUALIZAÇÕES&labelColor=0a0a0a"/>
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🔗 LINKS RÁPIDOS
+
+<!-- Azul escuro -->
+<a href="https://github.com/97984088676">
+  <img src="https://img.shields.io/badge/GitHub-Seguir-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Roxo -->
+<a href="https://github.com/97984088676?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-Ver_Todos-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Magenta -->
+<a href="https://instagram.com/mynne05">
+  <img src="https://img.shields.io/badge/Instagram-@mynne05-D946EF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Laranja -->
+<a href="mailto:Thamynne.2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contatar-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Amarelo -->
+<a href="mailto:thamynne@icloud.com">
+  <img src="https://img.shields.io/badge/iCloud-thamynne@icloud.com-FACC15?style=for-the-badge&logo=apple&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Verde -->
+<a href="https://wa.me/5597984088676">
+  <img src="https://img.shields.io/badge/WhatsApp-Mensagem-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/5511957555062">
+  <img src="https://img.shields.io/badge/Telegram-Contato-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚀_DISPONÍVEL_PARA_NOVAS_OPORTUNIDADES-7C3AED?style=for-the-badge&labelColor=0a0a0a"/>
+
+</div>
+
+<sub>©️ 2026 Thamynne Vitória </sub>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:7C3AED,100:D946EF&height=150&section=footer"/>
