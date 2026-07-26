@@ -74,6 +74,85 @@
 
 </div> 
 
+<!-- ============================================ -->
+<!-- STACK TECNOLÓGICO -->
+<!-- ============================================ -->
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="45px"/> STACK TECNOLÓGICO
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=javascript,html,css&perline=8&theme=dark"/>
+
+<br/><br/>
+
+<!-- Todos decorativos — sem link -->
+<img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E3A8A"/>
+
+<br/><br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,python&perline=5&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1E3A8A"/>
+<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=7C3AED"/>
+
+<br/><br/>
+
+### 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E3A8A"/>
+<img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=7C3AED"/>
+
+<br/><br/>
+
+### 🤖 AI, Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=3&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-1E3A8A?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1E3A8A"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=7C3AED"/>
+<img src="https://img.shields.io/badge/Pandas-D946EF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=D946EF"/>
+<img src="https://img.shields.io/badge/NumPy-F97316?style=for-the-badge&logo=numpy&logoColor=white&labelColor=F97316"/>
+<img src="https://img.shields.io/badge/Jupyter-FACC15?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=FACC15"/>
+
+<br/><br/>
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=white&labelColor=1E3A8A"/>
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+<br/>
 
 ##
 
